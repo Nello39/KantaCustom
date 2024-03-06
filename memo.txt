@@ -1,0 +1,5 @@
+https://developer.riotgames.com/apis
+https://developer.riotgames.com/
+
+{"id":"7lrSi3VV1N-UXwFeKQqSPNr_cZ0BU9IyZ2icIcrimvWqjyfF96sLRGt7Bg","accountId":"wuhnnQXwdE1tLY0Nvh2DXaOtcxTuse2M3zkJSAnctVP0NaBJxqHp3WeU","puuid":"mxU74PlqIEUC_9MWSbXGMDHKsTRo-H5C8bu_n5CMDZSr_UnKwIwSrKE0NaXP__nZ5Op22AScMOPrWw","name":"nello","profileIconId":5430,"revisionDate":1709709339857,"summonerLevel":64}
+{"id":"7lrSi3VV1N-UXwFeKQqSPNr_cZ0BU9IyZ2icIcrimvWqjyfF96sLRGt7Bg","accountId":"wuhnnQXwdE1tLY0Nvh2DXaOtcxTuse2M3zkJSAnctVP0NaBJxqHp3WeU","puuid":"mxU74PlqIEUC_9MWSbXGMDHKsTRo-H5C8bu_n5CMDZSr_UnKwIwSrKE0NaXP__nZ5Op22AScMOPrWw","name":"nello","profileIconId":5430,"revisionDate":1709709339857,"summonerLevel":64}

@@ -2,7 +2,7 @@ import requests
 import json
 import csv
 
-api_key = "RGAPI-a40c85a4-a3fb-495a-ae5a-d25cca5d4be3"
+api_key = "RGAPI-d2d06417-85aa-46d9-9208-7b1e95a7e4d8"
 base_url = "https://jp1.api.riotgames.com"
 endpoint = "/lol/summoner/v4/summoners/by-name/Nello#S913"
 
